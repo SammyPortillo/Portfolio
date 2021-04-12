@@ -1,0 +1,42 @@
+								Time
+
+Introduce GUI Live				2
+	This is one 700 line Python program.
+			
+								
+1 Contours						.75
+	 This video shows the 'contours' differences between frames.
+	 This is used to detect motion.
+
+2 Motion Detection Recording	.1
+	This is an actual recording showing the instance when motion is detected.
+	Showing the instance a person comes into frame.
+
+2.5 Motion Detection Servo
+
+3 GPS							.2
+	Test the GPS functionality
+
+
+4 Alarm Triggered				1
+	Test Trigger Door when Alarm IS NOT set.
+	Test Trigger Door when Alarm IS set.
+	Showing the video files are automatically uploaded to a remote FTP server.
+	
+
+
+5 FTP							.7
+	Talkie → Details of the FTP module.
+
+
+6 Remote						3
+	Talkie →	Controlling the Raspberry Pi Server from a remote location
+				over LoRa & BLE.
+
+
+
+7 GPS Tracking App				1.1
+	Talkie →	So now if you are outside of the LoRa range then
+				you'll need to rely on a cellular network.
+
+Total							8.35
